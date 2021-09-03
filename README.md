@@ -32,7 +32,7 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ## More about it:
 
-For more pictures and PCB ideas check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
+For more pictures and PCB Art ideas check my instagram profile [@notas_eletronicas](https://www.instagram.com/notas_eletronicas/)
 
 ## YouTube channel:
 

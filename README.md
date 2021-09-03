@@ -36,5 +36,5 @@ For more pictures and PCB Art ideas check my instagram profile [@notas_eletronic
 
 ## YouTube channel:
 
-My YouTube channel [Subscribe](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
+Subscribe at my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
 

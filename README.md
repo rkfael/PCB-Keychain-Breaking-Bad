@@ -8,3 +8,8 @@ I made this PCB Keychain using the *EasyEDA* software and then ordered it online
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
+Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Breaking-Bad/blob/main/Gerber_BREAKING_BAD_KEYCHAIN_2021-09-02.zip)
+
+Editable project access: [*EasyEDA*](xxxxxxxx)
+
+How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)

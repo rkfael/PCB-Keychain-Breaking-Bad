@@ -4,7 +4,7 @@
 
 A creative idea for PCB art design.
 
-I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/?from=RMW)
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
@@ -32,7 +32,7 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ## More about it:
 
-For more pictures and PCB Art ideas check my instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
+For more pictures and PCB Art ideas check my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
